@@ -1,0 +1,47 @@
+/* HEADER */
+body{
+    background-color:moccasin;
+}
+.heading{
+    float: left;
+}
+.title{
+    font-family: 'Montez', cursive;
+    font-size: 30px;
+    color: blue;
+    margin: 10px 10px 0px 10px; 
+}
+.tagtitle{
+    font-family: cursive;
+    color:black;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.headerbtns{
+    width: 100px;
+    height: 40px;
+    background: #0000ff;
+    color:white;
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;;
+}
+#getstarted,#welcome{
+    color:black;
+    font-size: larger; 
+    margin-left: 40%;
+}
+#fullname,#username,#password,#confirmpass{
+    background-color:lightgray;
+}
+#fullname:hover,#username:hover,#password:hover,#confirmpass:hover{
+    background-color:grey;
+    color: white;
+}
+#siusername,#sipassword{
+    background-color:lightgray;
+}
+#siusername:hover,#sipassword:hover{
+    background-color:grey;
+    color: white;
+}
